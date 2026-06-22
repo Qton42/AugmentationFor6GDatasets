@@ -4,8 +4,10 @@ Code for the TU Delft CSE3000 Research Project 2025/26, implemented for the pape
 
 Evaluating Tabular and Time-Series Data Augmentation for 6G-Relevant Network-Performance Regression
 
-The datasets can be found [here](https://doi.org/10.5281/zenodo.6907619).
+The datasets can be found here: https://doi.org/10.5281/zenodo.6907619
+
 Tabular dataset - AMF performance
+
 Time-series dataset - Python web server performance
 
 ## Abstract of the paper
