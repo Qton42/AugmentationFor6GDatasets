@@ -1,6 +1,6 @@
 # A Systematic Comparison between Data Augmentation Methods on 6G Datasets
 
-Code for the TU Delft CSE3000 Research Project 2025/26 Q4, implemented for the paper:
+Code for the [TU Delft](https://github.com/TU-Delft-CSE) [CSE3000 Research Project](https://github.com/TU-Delft-CSE/Research-Project) 2025/26 Q4, implemented for the paper:
 
 Evaluating Tabular and Time-Series Data Augmentation for 6G-Relevant Network-Performance Regression
 
